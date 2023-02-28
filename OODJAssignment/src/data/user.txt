@@ -1,0 +1,7 @@
+[
+  {
+    "class": "Customer",
+    "username": "test",
+    "password": "testing123"
+  }
+]
